@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Are You Depressed?",
+      "body": "If you cry on a dailybases than probably yes",
+      "author": "Anonymouse",
+      "id": 1
+    },
+    {
+      "title": "Are You Actualy an Alcoholic?",
+      "body": "Drinking every day is actualy a really super normal... acording to a dude from my AA group...",
+      "author": "Some Dude",
+      "id": 2
+    },
+    {
+      "title": "Does Your Mom Really Love You?",
+      "body": "Well if you are asking yourself that than the answer is probably no...",
+      "author": "Some Other Dude",
+      "id": 3
+    },
+    {
+      "title": "Is Love Real",
+      "body": "No",
+      "author": "Anonymouse",
+      "id": 4
+    }
+  ]
+}
